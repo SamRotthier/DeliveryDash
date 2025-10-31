@@ -30,8 +30,11 @@ public class Driver : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        currentSpeed = regularSpeed;
-        boostText.gameObject.SetActive(false);
+        if (collision.collider.CompareTag("WorldColission"))
+        {
+            currentSpeed = regularSpeed;
+            boostText.gameObject.SetActive(false);
+        }
     }
 
 

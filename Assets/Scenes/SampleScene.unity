@@ -2113,7 +2113,7 @@ GameObject:
   - component: {fileID: 100310988}
   m_Layer: 0
   m_Name: CollisionBox (9)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7108,7 +7108,7 @@ GameObject:
   - component: {fileID: 385753759}
   m_Layer: 0
   m_Name: CollisionBox
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7515,7 +7515,7 @@ GameObject:
   - component: {fileID: 397922776}
   m_Layer: 0
   m_Name: CollisionBox (4)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11701,7 +11701,7 @@ GameObject:
   - component: {fileID: 626566797}
   m_Layer: 0
   m_Name: CollisionBox (15)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13098,7 +13098,7 @@ GameObject:
   - component: {fileID: 729676709}
   m_Layer: 0
   m_Name: CollisionBox (5)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13325,7 +13325,7 @@ GameObject:
   - component: {fileID: 730657811}
   m_Layer: 0
   m_Name: CollisionBox (10)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21106,7 +21106,7 @@ GameObject:
   - component: {fileID: 910719321}
   m_Layer: 0
   m_Name: CollisionBox (7)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22323,7 +22323,7 @@ GameObject:
   - component: {fileID: 1004914397}
   m_Layer: 0
   m_Name: CollisionBox (21)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23782,7 +23782,7 @@ GameObject:
   - component: {fileID: 1077983404}
   m_Layer: 0
   m_Name: CollisionBox (17)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26383,7 +26383,7 @@ GameObject:
   - component: {fileID: 1258319622}
   m_Layer: 0
   m_Name: CollisionBox (11)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28196,7 +28196,7 @@ GameObject:
   - component: {fileID: 1366751078}
   m_Layer: 0
   m_Name: CollisionBox (1)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28333,7 +28333,7 @@ GameObject:
   - component: {fileID: 1373814206}
   m_Layer: 0
   m_Name: CollisionBox (18)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31360,7 +31360,7 @@ GameObject:
   - component: {fileID: 1661939609}
   m_Layer: 0
   m_Name: CollisionBox (16)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32639,7 +32639,7 @@ GameObject:
   - component: {fileID: 1760085518}
   m_Layer: 0
   m_Name: CollisionBox (13)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32866,7 +32866,7 @@ GameObject:
   - component: {fileID: 1760866615}
   m_Layer: 0
   m_Name: CollisionBox (19)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35318,7 +35318,7 @@ GameObject:
   - component: {fileID: 1900956116}
   m_Layer: 0
   m_Name: CollisionBox (3)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35815,7 +35815,7 @@ GameObject:
   - component: {fileID: 1921072915}
   m_Layer: 0
   m_Name: CollisionBox (12)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36402,7 +36402,7 @@ GameObject:
   - component: {fileID: 1984556597}
   m_Layer: 0
   m_Name: CollisionBox (14)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37133,7 +37133,7 @@ GameObject:
   - component: {fileID: 2057846773}
   m_Layer: 0
   m_Name: CollisionBox (6)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37905,7 +37905,7 @@ GameObject:
   - component: {fileID: 2091736387}
   m_Layer: 0
   m_Name: CollisionBox (22)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38639,7 +38639,7 @@ GameObject:
   - component: {fileID: 2116402407}
   m_Layer: 0
   m_Name: CollisionBox (20)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38956,7 +38956,7 @@ GameObject:
   - component: {fileID: 2121814485}
   m_Layer: 0
   m_Name: CollisionBox (8)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39093,7 +39093,7 @@ GameObject:
   - component: {fileID: 2133760993}
   m_Layer: 0
   m_Name: CollisionBox (23)
-  m_TagString: Untagged
+  m_TagString: WorldColission
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
